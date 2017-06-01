@@ -1,9 +1,9 @@
 <?php
 
-namespace MauticPlugin\MauticMosaicBuilder;
+namespace MauticPlugin\MauticMosaicoBundle;
 
 use Mautic\PluginBundle\Bundle\PluginBundleBase;
 
-class MauticMosaicBuilder extends PluginBundleBase
+class MauticMosaicoBundle extends PluginBundleBase
 {
 }
